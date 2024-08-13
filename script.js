@@ -683,6 +683,7 @@ $(document).on('mouseenter', '.scene_pixel', function(){
     if(picking){
         console.log('tesdt')
         $('.pickOverlay').css('background', $(this).css('background'))
+        $("#colorpicker").spectrum("set", newColor);
     }
 })
 
@@ -691,6 +692,7 @@ $(document).on('mouseleave', '.scene_pixel', function() {
     if(picking){
         console.log('tesdt')
         $('.pickOverlay').css('background', bgColor)
+        $("#colorpicker").spectrum("set", bgColor);
     }
 })
 
