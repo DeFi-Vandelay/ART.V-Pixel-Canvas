@@ -1,8 +1,13 @@
 # ART.V Pixel Canvas
 
+Interactive pixel art and animation tool for web-based creation.
+
+> **Live Demo:** https://art-v-pixel-canvas.vercel.app/
+
+
 ![ART.V Pixel Canvas Preview](./images/preview.png)
 
-## Overview
+## Project
 
 **ART.V Pixel Canvas** is an interactive pixel art tool that allows users to create pixel art scenes with a variety of customizable options, including pixel size, scene size, background color, and scene effects. Users can also apply simple animations to their scenes and export their artwork as an image.
 
@@ -29,8 +34,18 @@
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 - No additional software installations are required.
 
+
 ## Installation
 
 ```bash
 git clone https://github.com/DeFi-Vandelay/ART.V-Pixel-Canvas.git
 cd ART.V-Pixel-Canvas
+```
+
+## // Arthur Vandelay
+
+- Web: www.arthurvandelay.dev
+- Twitter: @DeFi_Vandelay
+- GitHub: @DeFi-Vandelay
+- Telegram: @DeFi_Vandelay
+- Email: info@arthurvandelay.dev
